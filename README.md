@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JonaBodirsky
 - 👀 I’m interested in FPV and Microcontrollers
 - 🌱 I’m currently learning electrical engineering
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me jonbodirsky@gmail.com
 
 <!---
