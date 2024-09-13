@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonaBodirsky
 - 👀 I’m interested in FPV and Microcontrollers
-- 🌱 I’m currently learning electrical engineering
+- 🌱 I’m currently learning electrical engineering with a CS minor
 - 📫 How to reach me bodirsky24@up.edu
 
 <!---
